@@ -1,0 +1,199 @@
+body{background-color: black;}
+
+.blu{background-image: url(image-header.jpg);
+    background-size: cover;
+    width: 1440px;}
+
+.creative{text-align: center;
+    font-size: 45px;
+    font-weight: 600;
+    color: white;
+    letter-spacing: 7px;
+    font-family: tahoma;
+    margin: 100px;
+    padding-top: 50px;
+}
+
+.top{display: flex;}
+
+.ss{color: white;
+    font-family: calibri;
+    font-size: 20px;
+    margin: 20px;
+    margin-right: 820px;
+    font-weight: 600;
+}
+
+.arrow{padding-left: 700px;
+    padding-bottom: 350px;
+}
+
+.contact{background-color: white;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 12px;
+    margin: 13px;
+    border-color: white;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 25px;
+}
+
+.about{font-family: calibri;
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    margin-top: 20px;
+}
+
+.box1{background-color: white;
+    font-family: calibri;
+    padding: 140px;
+    width: 440px;
+}
+
+.box2{background-color: white;
+    font-family: calibri;
+    padding: 140px;
+    width: 440px;
+    padding-right: -20px;
+}
+
+.transform{font-weight: 600;
+    font-size: 42px;
+    margin-bottom: 30px;
+}
+
+.stand{font-weight: 600;
+    font-size: 42px;
+    margin-bottom: 30px;
+}
+
+.weare{color: grey;
+    font-size: 20px;
+    margin-bottom: 30px;}
+
+.using{color: grey;
+    font-size: 20px;
+    margin-bottom: 30px;}
+
+.learn1{text-decoration: none;
+    color: black;
+    font-weight: 600;
+    background-color: hsl(51, 100%, 49%);
+    margin-bottom: 20px;
+    border-radius: 5px;}
+
+.learn2{text-decoration: none;
+    color: black;
+    font-weight: 600;
+    background-color:hsl(7, 99%, 70%);
+    margin-bottom: 20px;
+    border-radius: 5px;}
+
+.therest{display: flex;
+    flex-wrap: wrap;}
+
+.pic1{background-image: url(image-graphic-design.jpg);
+    background-size: cover;
+    padding: 154.5px;
+    padding-top: 300px;
+    text-align: center;
+    font-family: calibri;}
+
+.graphic{color: hsl(167, 40%, 24%);
+    font-size: 30px;
+    font-weight: 900;}
+
+.great{color: hsl(167, 40%, 24%);
+    font-size: 18px;}
+
+.pic2{background-image: url(image-photography.jpg);
+    background-size: cover;
+    padding: 165px;
+    padding-top: 300px;
+    text-align: center;
+    font-family: calibri;
+    width: 390px;}
+
+.photo{color: hsl(198, 62%, 26%);
+    font-size: 30px;
+    font-weight: 900;}
+
+.increase{color: hsl(198, 62%, 26%);
+    font-size: 18px;}
+
+.testimony{background-color: white;
+    display: flex;
+    font-family: calibri;}
+
+.t1{text-align: center;
+    line-height: 25px;
+    padding: 20px;
+    padding-top: 60px;
+    padding-left: 148px;}
+
+.t2{text-align: center;
+    line-height: 25px;
+    padding: 20px;
+    padding-top: 60px;}
+
+.t3{text-align: center;
+    line-height: 25px;
+    padding: 20px;
+    padding-top: 60px;
+    padding-right: 148px;}
+
+.client{background-color: white;
+    font-family: calibri;
+    padding-top: 100px;
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 3px;
+    text-align: center;
+    color: hsl(210, 4%, 67%);}
+
+.ppl{width: 55px;height: 55px;
+    border-radius: 27px;
+    margin-bottom: 60px;}
+
+.text{color: hsl(213, 9%, 39%);
+    padding-bottom: 50px;
+    font-weight: 500;
+    font-size: 20px;}
+
+.name{font-weight: 900;
+    font-size: 20px;}
+
+.job{color: hsl(210, 4%, 67%);
+    margin-bottom: 100px;}
+
+.almost{display: flex;}
+
+.milk{width: 361px;
+    height: 440px;}
+
+.ss2{font-weight: bold;
+    font-family: calibri;
+    padding-left: 618px;
+    padding-right: 618px;
+    padding-top: 40px;
+    color: hsl(167, 40%, 24%);
+    font-size: 50px;
+    padding-bottom: 40px;}
+
+.last{background-color: hsl(168, 34%, 41%);
+    padding-bottom: 80px;
+    text-align: center;}
+
+.abt2{color: hsl(167, 40%, 24%);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: calibri;
+    padding: 40px;}
+
+.ikon{margin: 13px;
+    text-decoration: none;}
